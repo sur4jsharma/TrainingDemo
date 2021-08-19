@@ -1,0 +1,3 @@
+git branch: list all the branch and highlight the current working branch
+git branch newBranchName: create new branch
+git checkout existingBranchName: switch to existingBranchName
