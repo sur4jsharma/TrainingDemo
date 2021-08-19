@@ -1,3 +1,6 @@
 Git demo
-modifying for conflict
+<<<<<<< HEAD
 checking changes not stagged
+=======
+creating conflict
+>>>>>>> demoBranch
